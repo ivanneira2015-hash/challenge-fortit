@@ -1,6 +1,6 @@
 # ForIT 2025 - Todo App (Express + React)
 
-Aplicaci�n full-stack sencilla para el challenge de ingreso a Academia ForIT 2025. Backend Express con almacenamiento en memoria y frontend React con Vite.
+Aplicacion full-stack sencilla para el challenge de ingreso a Academia ForIT 2025. Backend Express con almacenamiento en memoria y frontend React con Vite.
 
 ## Estructura
 - `backend/`: API REST en Express.
@@ -17,7 +17,7 @@ Copia los ejemplos y aj�stalos:
 - Frontend: `frontend/.env.example` ? `frontend/.env`
   - `VITE_API_URL=http://localhost:4000`
 
-## Instalaci�n y ejecuci�n local
+## Instalacion y ejecucion local
 ### Backend
 ```
 cd backend
