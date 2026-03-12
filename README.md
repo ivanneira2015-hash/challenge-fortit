@@ -10,7 +10,6 @@ Aplicacion full-stack sencilla para el challenge de ingreso a Academia ForIT 202
 - Node.js 18+ (incluye npm).
 
 ## Variables de entorno
-Copia los ejemplos y aj�stalos:
 - Backend: `backend/.env.example` ? `backend/.env`
   - `PORT=4000`
   - `CORS_ORIGIN=http://localhost:5173`
